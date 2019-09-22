@@ -1,0 +1,51 @@
+header {
+    display: flex;
+    justify-content: center;
+    background: #414141;
+    color: white;
+}
+.main-title {
+    color: white;
+    font-family: "Arial", sans-serif;
+    font-size: 50px;
+}
+body {
+    max-width: 1024px;
+    margin: auto;
+    font-family: 'Big Shoulders Display', cursive;
+}
+.main {
+    display: flex;
+    justify-content: space-between;
+    background: white;
+    color: black;
+    border: #414141 solid;
+}
+.main-list {
+    margin: 0;
+    padding: 20px 0 0 30px;
+    width: 600px;
+}
+.main-list-title-skills {
+    margin: 0 0 5px 0;
+}
+.main-list li {
+    padding: 5px 0;
+}
+ul {
+    padding-left: 20px;
+}
+a {
+    color: #8b8377;
+    text-decoration-line: none;
+}
+a:hover {
+    color: #ba1000;
+    text-decoration-line: underline;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    background: #414141;
+    color: white;
+}
